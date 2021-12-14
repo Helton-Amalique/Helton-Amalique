@@ -34,6 +34,6 @@
   <a href="https://twitter.com/helton_amalique" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eagrundy/helton-amalique/blob/output/github-contribution-grid-snake.svg)
  
 </div>
