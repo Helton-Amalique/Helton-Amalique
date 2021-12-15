@@ -1,5 +1,5 @@
 ## Hi I'm Helton Amalique  👋
-</br>
+
 - 🌱 I’m currently learning Python...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
@@ -24,7 +24,6 @@
   ### Contact's
   
 <div> 
-
   <a href = "mailto:heltonamalique@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   
@@ -38,5 +37,4 @@
   </br>
   
   ![Snake animation](https://github.com/Helton-Amalique/Helton-Amalique/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
