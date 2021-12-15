@@ -1,4 +1,4 @@
-### Hi I'm Helton Amalique  👋
+## Hi I'm Helton Amalique  👋
 
 - 🌱 I’m currently learning Python...
 - 📫 How to reach me: ...
@@ -33,7 +33,13 @@
   
   <a href="https://twitter.com/helton_amalique" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/eagrundy/hamalique/blob/output/github-contribution-grid-snake.svg)
+  
+  
+   <a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: ericamalakian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+  
+  ![Snake animation](https://github.com/Helton-Amalique/Helton-Amalique/blob/output/github-contribution-grid-snake.svg)
  
 </div>
