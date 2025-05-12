@@ -1,6 +1,6 @@
 ## Hi I'm Helton Amalique  👋
 
-- 🌱 I’m currently learning Python, Web Dev...
+- 🌱 I’m currently learning Python,backend develop...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
@@ -18,7 +18,7 @@
   <img align="center" alt="helt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="helt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="helt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="helt-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="helt-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
  <img align="center" alt="helt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
